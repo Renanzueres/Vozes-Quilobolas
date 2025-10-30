@@ -1,0 +1,22 @@
+/* Define a fonte padrão para todo o corpo da página */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Estiliza a imagem de fundo da seção principal (hero) com um gradiente escuro por cima */
+.hero-bg {
+    background-color: #4a3a2a;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1531341130070-5d2a23531b17?q=80&w=2070&auto=format&fit=crop');
+    background-size: cover;
+    background-position: center;
+}
+
+/* Adiciona transições suaves para a aparição do fundo do modal */
+.modal-backdrop {
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Adiciona transições suaves para a animação de escala do conteúdo do modal */
+.modal-content {
+    transition: transform 0.3s ease-in-out;
+}
