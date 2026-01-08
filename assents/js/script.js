@@ -149,6 +149,18 @@ const acervo = [
         capa:"https://m.media-amazon.com/images/I/91kVLyAgpdL._SY342_.jpg",
         sinopse:"O livro reúne uma série de relatos sobre revoltas de escravos no Brasil colonial, destacando as motivações, estratégias e consequências dessas insurreições.",
         bioAutor:"João José Reis é um historiador brasileiro, professor titular da Universidade Federal da Bahia (UFBA) e pesquisador do CNPq. É reconhecido por suas contribuições à história social do Brasil, especialmente no estudo da escravidão e das populações afro-brasileiras.",
+    },
+    {
+        id: 16,
+        titulo:"Úrsula",
+        autor:"Maria Firmina dos Reis",
+        regiao:"Nordeste",
+        genero:"Romance",
+        capa:"https://cadernosdomundointeiro.com.br/img/capas/ursula-capa.jpg",
+        sinopse:"O romance Úrsula foi publicado em 1859 e é uma obra fundamental da literatura abolicionista brasileira. ",
+        bioAutor:" Maria Firmina dos Reis foi uma professora, compositora e escritora brasileira, considerada a primeira romancista negra da América Latina. Publicou em 1859 o livro Úrsula, considerado o primeiro romance abolicionista do Brasil e também fundou uma escola mista para filhas e filhos de lavradores.",
+
+
     }
 ];
 
